@@ -38,7 +38,7 @@
 
             // 定义旋钮
 
-            sensor-bindings = <&inc_dec_kp LS(LG(UP_ARROW)) LS(LG(DOWN_ARROW))>;
+            sensor-bindings = <&inc_dec_kp LS(C_BRI_DEC) LS(C_BRI_INC)>;
 
             // 定义旋钮
         };
